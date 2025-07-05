@@ -1,0 +1,16 @@
+[
+    {
+        "filename": "license_plates_images/priora.jpg",
+        "plates": [
+            {
+                "box": {
+                    "x": 1123,
+                    "y": 2618,
+                    "width": 691,
+                    "height": 174
+                },
+                "text": "О770ЕУ18"
+            }
+        ]
+    }
+]
